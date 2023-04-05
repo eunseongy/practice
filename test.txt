@@ -1,8 +1,1 @@
-test중입니다.
-include <iostream>
-int main()
-{
-
-cout<<a;
-int a=1;
-}
+ dkadfk
